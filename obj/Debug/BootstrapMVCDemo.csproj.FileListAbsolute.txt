@@ -1,0 +1,182 @@
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\ApplicationInsights.config
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\BootstrapMVCDemo.dll.config
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\BootstrapMVCDemo.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\BootstrapMVCDemo.pdb
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csc.exe
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csc.exe.config
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csc.rsp
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csi.exe
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csi.exe.config
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csi.rsp
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.AppContext.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Console.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\vbc.exe
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\vbc.exe.config
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\vbc.rsp
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Antlr3.Runtime.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.Web.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Newtonsoft.Json.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Helpers.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Mvc.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Optimization.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Razor.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\WebGrease.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Helpers.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Mvc.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Optimization.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Razor.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Newtonsoft.Json.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Antlr3.Runtime.pdb
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.Web.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.csprojAssemblyReference.cache
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.csproj.CoreCompileInputs.cache
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.csproj.CopyComplete
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.dll
+C:\Users\zoika\Documents\Giannis\C#\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.pdb
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\ApplicationInsights.config
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\BootstrapMVCDemo.dll.config
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\BootstrapMVCDemo.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\BootstrapMVCDemo.pdb
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csc.exe
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csc.exe.config
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csc.rsp
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csi.exe
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csi.exe.config
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\csi.rsp
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.AppContext.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Console.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\vbc.exe
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\vbc.exe.config
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\vbc.rsp
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Antlr3.Runtime.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.Web.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Newtonsoft.Json.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Helpers.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Mvc.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Optimization.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Razor.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\WebGrease.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Helpers.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Mvc.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Optimization.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.Razor.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Newtonsoft.Json.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Antlr3.Runtime.pdb
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.AI.Web.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.csprojAssemblyReference.cache
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.csproj.CoreCompileInputs.cache
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.csproj.CopyComplete
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.dll
+C:\Users\zoika\Desktop\Νέος φάκελος\BootCamp5\ClassroomWebCode\BootstrapMVCDemo\BootstrapMVCDemo\obj\Debug\BootstrapMVCDemo.pdb
